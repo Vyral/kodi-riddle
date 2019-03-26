@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Technology Has Pushed Real Estate Forward
-date: 2019-03-26 15:17:34
+date: 2019-03-25 15:17:00
 tags:
 excerpt: How has technology impacted the real estate industry?
 enclosure:
@@ -26,7 +26,7 @@ For example, if you’re trying to sell your own by yourself using Zillow, your 
 
 Every property we list has three signs in the yard. Now, the signs themselves aren’t technologically advanced, but they do feature three different phone numbers that lead to different resources:
 
-* One number is for everyday inquiries about open house times; calling that number will ring everyone on the team, so the buyer is guaranteed an answer.&nbsp;
+* One number is for everyday inquiries about open house times; calling that number will ring everyone on the team, so the buyer is guaranteed an answer. 
 * Another number is for 24/7 information about the property; calling this number will connect interested parties to a recording detailing the property’s features. Make no mistake: we do track calls to this second number, and we follow up with those inquiries once the client has hung up, or the next day if we don’t catch them.
 * The third is a regular real estate sign.
 
@@ -38,4 +38,4 @@ On our team, so many dollars are spent on online marketing that it would be real
 
 Additionally, when buyers search for homes using criteria that your home matches, we have the ability to know when that occurs. If we have your listing, then we’ll make sure that your listing follows that person, appearing as an advertisement on their Facebook feed, for example. I call it ‘Big Brother’ marketing—it’s crazy, it’s cool, and it just works.
 
-We’ve had one heck of a year utilizing these technologies, and we strongly feel that they can serve you, too. If you’d like to go into more detail about real estate technologies, reach out to me. I’d love to share all of the ways that they can help you.<br>&nbsp;
+We’ve had one heck of a year utilizing these technologies, and we strongly feel that they can serve you, too. If you’d like to go into more detail about real estate technologies, reach out to me. I’d love to share all of the ways that they can help you.<br>
