@@ -37,4 +37,4 @@ There are a couple of factors that make market conditions especially good right 
 
 **2\. Inventory is at a perfect balance right now.** This isn’t true for all niche markets—luxury homes are sitting on the market for longer periods, for example. But if your home has visual appeal and is properly priced, it’s sure to sell fast. &nbsp;<br><br>These two reasons should be major drivers in your motivation to sell if that’s been on your mind of late. These factors grant you more leverage and aren’t going to hold forever—prices will likely level off and maybe even decrease after this year. There’s truly no time like the present to jump into our market and capture top dollar for your home\! &nbsp;&nbsp;
 
-If you’d like for my team and me to take a closer look at your property and give you an honest, accurate market valuation, please give us a call at 480-580-0171. I look forward to hearing from you\!
+If you’d like for my team and me to take a closer look at your property and give you an honest, accurate market valuation, please give us a call at 480-207-2645. I look forward to hearing from you\!
