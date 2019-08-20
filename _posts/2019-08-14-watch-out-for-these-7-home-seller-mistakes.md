@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/kodi-riddle--save--by-avoiding-these-7-mistakes-youtube.jpg
-youtube_code: 'https://youtu.be/_qbM45iVXMM'
+youtube_alternate_image: /uploads/kodi-riddle--save--by-avoiding-these-7-mistakes-2-youtube.jpg
+youtube_code: 'https://youtu.be/tmn7A7acs5E'
 ---
 
 {% include youtube.html %}
