@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kodi-riddle--save--by-avoiding-these-7-mistakes-2-youtube.jpg
-youtube_code: bwWVi4cyusc
+youtube_code: 'https://youtu.be/bwWVi4cyusc'
 ---
 
 {% include youtube.html %}
