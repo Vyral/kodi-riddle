@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kodi-riddle--why-is-it-critical-to-avoid-these-mistakes-youtube.jpg
-youtube_code: 'https://youtu.be/Fe33gyNsvks'
+youtube_code: 'https://youtu.be/he7b_2yCoDI'
 ---
 
 {% include youtube.html %}
