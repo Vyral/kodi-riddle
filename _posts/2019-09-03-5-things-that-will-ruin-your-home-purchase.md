@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Buying a home is complicated, but making one of these mistakes makes things
   even worse. Here are five things every homebuyer should avoid doing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/videos/2019/September/5+Things+That+Will+Ruin+Your+Home+Purchase.mp4
 pullquote: Avoid touching your down payment money at all costs.
 enclosure_type: video/mp4
 enclosure_time:
