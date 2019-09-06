@@ -5,7 +5,7 @@ date: 2019-03-25 15:17:00
 tags:
 excerpt: How has technology impacted the real estate industry?
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kodi+Riddle/Greater+Phoenix+Area+Real+Estate+Agent-+Techs+Impact+on+the+Real+Estate+Industry.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/videos/2019/September/Greater+Phoenix+Area+Real+Estate+Agent-+Techs+Impact+on+the+Real+Estate+Industry+(1).mp4
 pullquote: >-
   On our team, so many dollars are spent on online marketing that it would be
   really hard for a FSBO seller  or even an average agent who doesn’t have that
