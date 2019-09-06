@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today’s topic is especially informative for home sellers: The top seven
   mistakes that sellers tend to make that you should avoid.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/videos/2019/September/Watch+Out+for+These+7+Home-Seller+Mistakes+(1).mp4
 pullquote: >-
   Some sellers require potential buyers to call at least 24 hours in advance to
   schedule a showing for their listing—don’t do that.
