@@ -1,7 +1,8 @@
 ---
-youtube_code: -p1KmS1CXU8
+youtube_code: '-p1KmS1CXU8'
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/videos/2019/September/Greater+Phoenix+Area+Real+Estate+Agent-+Are+the+Rumors+That+Were+in+a+Bubble+True_+(1).mp4
 pullquote: OUR MARKET STILL HOLDS AMAZING OPPORTUNITIES FOR BUYERS AND SELLERS ALIKE.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,22 +10,19 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: The Truth About Todays Market Conditions
-date: '2019-01-08T07:28:00.002-08:00'
+date: 2019-01-08 15:28:00
 author: Vyral Admin
 tags:
-- Greater Phoenix Real Estate Market Update
-modified_time: '2019-01-08T07:28:36.337-08:00'
-thumbnail: https://i.ytimg.com/vi/-p1KmS1CXU8/default.jpg
-blogger_id: tag:blogger.com,1999:blog-2510704938073437062.post-6369370708827804161
-blogger_orig_url: https://kodiriddle.blogspot.com/2019/01/greater-phoenix-area-real-estate-agent-are-the-rumors-that-were-in-a-bubble-true.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/-p1KmS1CXU8/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-2510704938073437062.post-6369370708827804161'
+blogger_orig_url: >-
+  https://kodiriddle.blogspot.com/2019/01/greater-phoenix-area-real-estate-agent-are-the-rumors-that-were-in-a-bubble-true.html
 ---
-{% include youtube.html %}
-What’s happening right now in our market? Are we in a bubble? Find out with this quick update.
 
-<div class="post-cta">
-Selling your Greater Phoenix Home? <a href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819" target="_blank">Get a free home value report</a><br>
-Buying a Greater Phoenix Home? <a href="http://www.greaterphoenixarearealestate.com/" target="_blank">Search all homes for sale</a>
-</div>
+{% include youtube.html %} What’s happening right now in our market? Are we in a bubble? Find out with this quick update.
+
+<div class="post-cta">Selling your Greater Phoenix Home? <a target="_blank" href="http://www.searchallproperties.com/propertyvaluation-plus/billriddle/Phoenix-375819">Get a free home value report</a><br />Buying a Greater Phoenix Home? <a target="_blank" href="http://www.greaterphoenixarearealestate.com/">Search all homes for sale</a></div>
 
 One question that seems to be on everyone’s mind lately is, “Are we in a bubble?” In my opinion, no, I don’t believe we are.
 
