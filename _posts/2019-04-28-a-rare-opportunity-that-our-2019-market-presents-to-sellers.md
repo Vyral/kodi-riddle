@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Our local market in 2019 is an extremely seller-friendly environment due to
   two major factors—but a cooldown could be on the way after this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/videos/2019/September/Greater+Phoenix+Area+Real+Estate+Agent-+A+Rare+Opportunity+That+Our+2019+Market+Presents+to+Sellers+(1).mp4
 pullquote: >-
   There’s truly no time like the present to jump into our market and capture top
   dollar for your home!
