@@ -32,6 +32,6 @@ The real estate industry is changing a ton, but some things never change when it
 
 **4\. Don’t spend your down payment money.** If you have money set aside for a down payment, don’t dig into it. Leave it there for closing so that you can fund and close on time.
 
-**5\. Don’t omit liabilities on your loan application.** The lender is going to find out everything, so just be upfront and don’t try to hide anything. If it means you won’t qualify now, that’s ok. We can fix it. However, it will be much harder if you’re not upfront about it.
+**5\. Don’t omit liabilities on your loan application.** The lender is going to find out everything, so just be up front and don’t try to hide anything. If it means you won’t qualify now, that’s ok. We can fix it. However, it will be much harder if you’re not up front about it.
 
 If you have any questions for me about buying a home or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
