@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/kodi-riddle--how-should-you-approach-a-coming-soon-listing-youtube.jpg
+  /uploads/new-kodi-riddle--how-should-you-approach-a-coming-soon-listings-youtube-new.jpg
 youtube_code: 'https://youtu.be/bitoltleK0A'
 ---
 
@@ -37,7 +37,7 @@ So what should you do if you spot a dream home which is "coming soon" but is not
 
 **2\. Do your research.** Even while a home is unavailable for viewing, you can gather a lot of information about it, including the sales history of the property, old pictures if the home was previously listed on the MLS, and of course, the date on which the listing will go live. The point is there’s plenty we can do without even seeing the home.&nbsp;
 
-**3\. If you conclude it makes sense, make an early offer.** Even though a home is not yet available for viewing, you can still make an offer during this period. When submitting an offer on a home sight unseen, make sure you carefully craft the contract terms, including deadlines and contingencies, to minimize the risk you're exposed to. And don’t be surprised or disheartened if the seller doesn’t accept. Chances are they want to get a feel for the market first.&nbsp;
+**3\. If you conclude it makes sense, make an early offer.** Even though a home is not yet available for viewing, you can still make an offer during this period. When submitting an offer on a home, sight unseen, make sure you carefully craft the contract terms, including deadlines and contingencies, to minimize the risk you're exposed to. And don’t be surprised or disheartened if the seller doesn’t accept. Chances are they want to get a feel for the market first.&nbsp;
 
 And if you do come across a "coming soon" listing and you feel like it’s your dream home, please reach out to me. We at Riddle Realty Group market homes this way frequently, so let us put that experience and expertise to work for you on the buyer side. We’d be happy to do some research with you.&nbsp;
 
