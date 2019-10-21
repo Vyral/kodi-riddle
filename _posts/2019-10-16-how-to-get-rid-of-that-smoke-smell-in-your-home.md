@@ -41,4 +41,4 @@ Thankfully, there are several things you can do to eliminate this foul smell. Wh
 
 Once you follow these steps, all odors should be gone from your newly clean home.&nbsp;
 
-As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&nbsp;
