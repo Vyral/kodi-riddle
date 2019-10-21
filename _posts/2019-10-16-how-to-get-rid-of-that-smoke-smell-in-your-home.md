@@ -25,11 +25,11 @@ Thankfully, there are several things you can do to eliminate this foul smell. Wh
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
-1:37 - Tip No. 1: Remove all carpets or padding.&nbsp;
+1:37 - Tip No. 1: Remove all carpets and padding.&nbsp;
 
-2:02 - Tip No. 2: Hire a cleaning company to clean the tile and grout.
+2:02 - Tip No. 2: Hire a cleaning company to clean the tile and grout as well as the concrete that was under the carpet.&nbsp;
 
-3:37 - Tip No. 3: Run an ozone machine.
+3:37 - Tip No. 3: Run an ozone machine through the air return.
 
 5:09 - Tip No. 4: Clean the whole house.
 
