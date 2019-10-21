@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/kodi-riddle--how-to-get-rid-of-your-homes-smoke-smell-for-good-youtube.jpg
-youtube_code: 'https://youtu.be/xjGjeXfoJRE'
+youtube_code: 'https://youtu.be/szkgILxtsxU'
 ---
 
 {% include youtube.html %}
