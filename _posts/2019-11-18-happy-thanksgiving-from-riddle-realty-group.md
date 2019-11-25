@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Thanksgiving From Riddle Realty
+title: Happy Thanksgiving From Riddle Realty Group
 date: 2019-11-18 00:00:00
 tags:
 excerpt: >-
