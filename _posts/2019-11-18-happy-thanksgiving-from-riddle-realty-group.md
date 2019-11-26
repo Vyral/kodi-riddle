@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Thanksgiving is almost here, which got us thinking about what each of us at
   Riddle Realty is most thankful for this year. Here are our answers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/videos/2019/November/Happy+Thanksgiving+From+Riddle+Realty+Group.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
