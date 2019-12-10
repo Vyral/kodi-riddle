@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Your Text Conversations Count with These 6 Tips
-date: 2019-11-14 00:00:00
+date: 2019-11-19 00:00:00
 tags:
 excerpt: >-
   Texting is a very common means of communicating these days, so today let’s
