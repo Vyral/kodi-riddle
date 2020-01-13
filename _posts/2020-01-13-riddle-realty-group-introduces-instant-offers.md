@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Riddle Realty Group Introduces Instant Offers
-date: 2020-01-13 18:18:07
+date: 2020-01-13 18:18:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
