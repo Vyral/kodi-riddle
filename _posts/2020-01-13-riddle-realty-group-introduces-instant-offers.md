@@ -28,7 +28,7 @@ iBuyers, also known as ‘instant buyers,’ provide sellers with an instant off
 
 40% of sellers now get an opinion from an iBuyer before they sell their home. There is certainly a proper time and place for iBuyers in today’s market. They’re geared toward sellers who really need the convenience—i.e. you’re juggling life changes, you can’t show the home, and/or you just want to pick the closing date.&nbsp;
 
-**Sellers who fall into this category should be aware that opting for the convenience of an iBuyer site&nbsp;*****will*** **cost you money.** Our market right now is really strong for sellers, especially when you start looking at specific price points. If you go the more traditional route and work with an agent, your listing will have mass appeal; countless buyers will see your home as opposed to just one or two iBuyers.
+**Sellers who fall into this category should be aware that opting for the convenience of an iBuyer site&nbsp;****will** **cost you money.** Our market right now is really strong for sellers, especially when you start looking at specific price points. If you go the more traditional route and work with an agent, your listing will have mass appeal; countless buyers will see your home as opposed to just one or two iBuyers.
 
 {% include pullquote.html %}&nbsp;
 
