@@ -22,7 +22,7 @@ youtube_code: BoiL7d7zts4
 
 {% include youtube.html %}
 
-*Today I’m defining instant offers, explaining the pros and cons, and introducing our own instant offer program.*
+<p style="text-align: center;"><em>Today I’m defining instant offers, explaining the pros and cons, and introducing our own instant offer program.</em></p>
 
 iBuyers, also known as ‘instant buyers,’ provide sellers with an instant offer. By calling any one of the popular iBuyer companies (Opendoor, Offerpad, Zillow, etc.), sellers can forego the traditional real estate process and opt for quick cash.&nbsp;
 
