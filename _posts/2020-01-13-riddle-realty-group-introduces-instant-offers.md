@@ -30,9 +30,7 @@ iBuyers, also known as ‘instant buyers,’ provide sellers with an instant off
 
 **Sellers who fall into this category should be aware that opting for the convenience of an iBuyer site&nbsp;****will** **cost you money.** Our market right now is really strong for sellers, especially when you start looking at specific price points. If you go the more traditional route and work with an agent, your listing will have mass appeal; countless buyers will see your home as opposed to just one or two iBuyers.
 
-{% include pullquote.html %}&nbsp;
-
-Nevertheless, depending on your situation, the instant offer route may still be the best for you. That’s why I’m proud to announce that we at Riddle Realty Group, powered by Keller Williams,&nbsp; can now give you an instant offer. There may be other Realtors who see iBuyers as antithetical to what they do, but I truly believe there is a place for instant offers in the modern market.&nbsp;
+{% include pullquote.html %} Nevertheless, depending on your situation, the instant offer route may still be the best for you. That’s why I’m proud to announce that we at Riddle Realty Group, powered by Keller Williams,&nbsp; can now give you an instant offer. There may be other Realtors who see iBuyers as antithetical to what they do, but I truly believe there is a place for instant offers in the modern market.&nbsp;
 
 That’s right: **We can give you a hassle-free instant offer, so you can skip the showings and close whenever you want.** Having said that, we can also get it on the market, sell it for top dollar, and have you spend a lot less.&nbsp;
 
