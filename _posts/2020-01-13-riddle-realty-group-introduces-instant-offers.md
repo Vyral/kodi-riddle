@@ -17,12 +17,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/kodi-riddle--a-place-in-the-market-for-instant-offers-youtube-1.jpg
-youtube_code: BoiL7d7zts4
+youtube_code: T0M7yeGLCew
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m defining instant offers, explaining the pros and cons, and introducing our own instant offer program.</em></p>
+*Today I’m defining instant offers, explaining the pros and cons, and introducing our own instant offer program.*
 
 iBuyers, also known as ‘instant buyers,’ provide sellers with an instant offer. By calling any one of the popular iBuyer companies (Opendoor, Offerpad, Zillow, etc.), sellers can forego the traditional real estate process and opt for quick cash.&nbsp;
 
