@@ -37,4 +37,4 @@ The APR, however, is a broader measure. It encapsulates all of the costs associa
 
 In summary: The main difference between the two is that an interest rate calculates the monthly payments for your loan, whereas the APR calculates the total cost of your loan.&nbsp;
 
-If you have any questions about this topic or want to get connected with our lender, feel free to give us a call or send an email any time. We’re always here to help.
+If you have any questions about this topic or want to get connected with our lender, feel free to give us a call or send an email. We’re always here to help.
