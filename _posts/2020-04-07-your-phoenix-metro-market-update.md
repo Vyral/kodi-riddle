@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Phoenix Metro Market Update
-date:
+date: 2020-04-07 22:20:58
 tags:
   - Real Estate
 excerpt: >-
