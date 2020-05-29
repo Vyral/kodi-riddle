@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Has COVID-19 Affected Our Market?'
-date:
+date: 2020-05-29 19:32:34
 tags:
   - Market Update
   - Real Estate
