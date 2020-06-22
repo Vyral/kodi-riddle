@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Q: What's New in Our Market?
+title: A Positive Update on the June 2020 Market
 date: 2020-06-19 13:32:17
 tags:
   - Real Estate
