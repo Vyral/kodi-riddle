@@ -20,7 +20,7 @@ youtube_code: w680axQVGUU
 
 {% include youtube.html %}
 
-*Here’s an update on the Maricopa County real estate market amid a rise in coronavirus cases.*
+ <p style="text-align: center;"><em>Here’s an update on the Maricopa County real estate market amid a rise in coronavirus cases.</em></p>
 
 Our real estate market is like it was two or three weeks ago—still very strong. We have more buyers out looking for homes in the market than we have homes available for sale\! We’re just waiting for new homes to come to the market so we can get these buyers under contract.
 
