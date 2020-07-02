@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Do Buyers Need to Do to Prep for Our Market?'
-date: 2020-07-02 20:41:38
+date: 2020-07-02 20:41:00
 tags:
   - Market Update
 excerpt: 'If you’re a buyer in our market, you must have your finances in order.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/what-do-buyers-need-to-do-to-prep-for-our-market-yt.jpg
-youtube_code:
+youtube_code: _sge2PEJhRQ
 ---
 
 {% include youtube.html %}
