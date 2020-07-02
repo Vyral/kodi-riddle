@@ -16,7 +16,7 @@ youtube_code: _sge2PEJhRQ
 
 {% include youtube.html %}
 
-&nbsp;If you’re a buyer in our market, you must have your finances in order.
+<p style="text-align:center">If you’re a buyer in our market, you must have your finances in order.</p>
 
 What’s the latest news from our real estate market?
 
