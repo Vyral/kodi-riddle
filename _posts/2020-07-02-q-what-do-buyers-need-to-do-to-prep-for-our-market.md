@@ -9,14 +9,14 @@ enclosure:
 pullquote: Conditions are phenomenal for buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/what-do-buyers-need-to-do-to-prep-for-our-market-yt.jpg
 youtube_code: _sge2PEJhRQ
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>If you’re a buyer in our market, you must have your finances in order.</em></p>
+*If you’re a buyer in our market, you must have your finances in order.*
 
 What’s the latest news from our real estate market?
 
