@@ -5,7 +5,7 @@ date: 2020-07-17 16:59:56
 tags:
   - Real Estate
 excerpt: A COVID-19 addendum better protects you during a transaction.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/The+New+COVID-19+Addendum+That+Keeps+You+Safe.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,7 @@ youtube_code: uOLjpHtMous
 
 {% include youtube.html %}
 
-A COVID-19 addendum better protects you during a transaction.
+ <p style="text-align: center;"><em>A COVID-19 addendum better protects you during a transaction.</em></p>
 
 The new Coronavirus/COVID-19 Addendum created by the Arizona Association of Realtors back in March 2020 is designed to protect the buyers and sellers we work with in today’s market. How does it work?&nbsp;
 
