@@ -16,7 +16,7 @@ youtube_code: HkS1plL6pWU
 
 {% include youtube.html %}
 
-Here’s why savvy homeowners can’t go wrong with a winter sale in 2020.
+<p style="text-align: center;"><em>Here’s why savvy homeowners can’t go wrong with a winter sale in 2020.</em></p>
 
 We’ve been getting numerous calls into the office and keep hearing the same question: “Should I sell my home now?” It’s such an easy answer because of where the real estate market is these days. Right now, it’s in favor of sellers and helping them in so many ways, so the answer is a resounding “Yes\!”
 
