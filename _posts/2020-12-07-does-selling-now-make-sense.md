@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does Selling Now Make Sense?
-date: 2020-12-07 18:00:47
+date: 2020-12-07 18:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why savvy homeowners can’t go wrong with a winter sale in 2020.
@@ -11,14 +11,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: HkS1plL6pWU
 ---
 
 {% include youtube.html %}
 
 Here’s why savvy homeowners can’t go wrong with a winter sale in 2020.
 
-We’ve been getting numerous calls into the office and keep hearing the same question:“Should I sell my home now?” It’s such an easy answer because of where the real estate market is these days. Right now, it’s in favor of sellers and helping them in so many ways, so the answer is a resounding “Yes\!”
+We’ve been getting numerous calls into the office and keep hearing the same question: “Should I sell my home now?” It’s such an easy answer because of where the real estate market is these days. Right now, it’s in favor of sellers and helping them in so many ways, so the answer is a resounding “Yes\!”
 
 **Interest rates are insanely low**, which is keeping demand from buyers very strong. These buyers want to lock in low rates and become homeowners.
 
