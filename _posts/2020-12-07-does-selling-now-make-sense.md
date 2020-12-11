@@ -5,7 +5,7 @@ date: 2020-12-07 18:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s why savvy homeowners can’t go wrong with a winter sale in 2020.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/Does+Selling+Now+Make+Sense_+(1).mp4
 pullquote: These buyers want to lock in a rate while they’re low.
 enclosure_type: video/mp4
 enclosure_time:
