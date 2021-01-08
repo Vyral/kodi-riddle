@@ -16,7 +16,7 @@ youtube_code: qqdD_0rQaEc
 
 {% include youtube.html %}
 
-Here’s what the latest numbers say about our market.
+<p style="text-align: center;"><em>Here’s what the latest numbers say about our market.</em></p>
 
 I’ve been in business for 22 years and seen just about every market you can see. This market, though, is absolutely crazy. **Here are the latest MLS stats from the Greater Phoenix area as of the end of December:**
 
