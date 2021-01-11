@@ -16,7 +16,7 @@ youtube_code: qqdD_0rQaEc
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what the latest numbers say about our market.</em></p>
+*Here’s what the latest numbers say about our market.*
 
 I’ve been in business for 22 years and have seen just about every market you can see. This market, though, is absolutely crazy. **Here are the latest MLS stats from the Greater Phoenix area as of the end of December:**
 
@@ -33,3 +33,5 @@ I’ve been in business for 22 years and have seen just about every market you c
 We actually saw more new listings arrive during January 2020, so **we’ll have to see what happens this January.** An increase in new listings will certainly help buyers. Whatever happens, we’ll also have to see how it drives our spring market, which is usually a very busy time of year.&nbsp;
 
 If you’d like to discuss what these numbers mean for your buying or selling plans or have any questions about our Greater Phoenix market, don’t hesitate to call or email me anytime. I’d love to hear from you.
+
+*Source: The Cromford Report, Daily Real Estate Market Insight*
