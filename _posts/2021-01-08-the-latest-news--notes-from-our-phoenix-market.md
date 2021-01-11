@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest News & Notes From Our Phoenix Market
-date: 2021-01-08 18:59:00
+date: 2021-01-11 18:59:00
 tags:
   - Market Update
 excerpt: Here’s what the latest numbers say about our market.
