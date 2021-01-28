@@ -17,7 +17,7 @@ youtube_code: Sepe9wMZYno
 
 {% include youtube.html %}
 
-Whether you’re buying or selling, our 2021 market outlook is good.
+<p style="text-align: center;"><em>Whether you’re buying or selling, our 2021 market outlook is good.</em></p>
 
 Today I’ll answer all the latest questions you may have concerning our 2021 real estate market. More and more people are moving into our state, and we’re still very much in a seller’s market. The real story, though, is interest rates—this January, we hit another record low. Does this mean we’ve reached the top of the market?
 
