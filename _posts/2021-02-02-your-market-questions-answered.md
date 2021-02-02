@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Your Market Questions Answered
-date: 2021-01-28 09:00:00
+date: 2021-02-02 09:00:00
 tags:
   - Market Update
   - Home Seller Tips
 excerpt: 'Whether you’re buying or selling, our 2021 market outlook is good.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/Your+Market+Questions+Answered.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: UQi31lWNPG4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Whether you’re buying or selling, our 2021 market outlook is good.</em></p>
+*Whether you’re buying or selling, our 2021 market outlook is good.*
 
 Today I’ll answer all the latest questions you may have concerning our 2021 real estate market. More and more people are moving into our state, and we’re still very much in a seller’s market. The real story, though, is interest rates—this January, we hit another record low. Does this mean we’ve reached the top of the market?
 
