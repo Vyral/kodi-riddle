@@ -18,11 +18,11 @@ youtube_code: gUtgPDoxz-o
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the five best reasons to downsize into a smaller home.</em></p>
+*Here are the five best reasons to downsize into a smaller home.*
 
 Today I want to talk about a topic that is near and dear to my heart: downsizing. I have two boys, and the youngest is now a senior in high school. It has me thinking about being an empty nester and what that’s going to be like, so on that note, here are the five best reasons to downsize:
 
-**1\. Your kids have left home.** I have so many friends in the same boat. Tons of parents who have their youngest moving out soon.
+**1\. Your kids have left home.** I have so many friends in the same boat and know tons of parents whose youngest are moving out soon.
 
 **2\. To buy a vacation home.** Arizona is a popular destination for snowbirds—people who live here in the winter and somewhere else in the summer.
 
