@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Are the Top 5 Reasons to Downsize?
-date: 2021-02-16 09:00:00
+date: 2021-02-17 09:00:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
   - Real Estate
 excerpt: Here are the five best reasons to downsize into a smaller home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/What+Are+the+Top+5+Reasons+to+Downsize_.mp4
 pullquote: Right now is a fantastic time to downsize with low interest rates.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: gUtgPDoxz-o
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the five best reasons to downsize into a smaller home.</em></p>
+*Here are the five best reasons to downsize into a smaller home.*
 
 Today I want to talk about a topic that is near and dear to my heart: downsizing. I have two boys, and the youngest is now a senior in high school. It has me thinking about being an empty nester and what that’s going to be like, so on that note, here are the five best reasons to downsize:
 
