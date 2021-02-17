@@ -18,7 +18,7 @@ youtube_code: gUtgPDoxz-o
 
 {% include youtube.html %}
 
-*Here are the five best reasons to downsize into a smaller home.*
+<p style="text-align: center;"><em>Here are the five best reasons to downsize into a smaller home.</em></p>
 
 Today I want to talk about a topic that is near and dear to my heart: downsizing. I have two boys, and the youngest is now a senior in high school. It has me thinking about being an empty nester and what that’s going to be like, so on that note, here are the five best reasons to downsize:
 
