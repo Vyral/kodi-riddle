@@ -41,15 +41,15 @@ client:
     additional information about real estate in your area, please don't hesitate
     to call or e-mail me.
   brand: The Riddle Group
-  brokerage: eXp Realty
+  brokerage: eXp Realty<br>Designated Broker - Beth Adams
   market: Phoenix
-  address: '4524 E. Rancho Laredo Dr.<br>Cave Creek, AZ 85331'
+  address: '20860 N Tatum Blvd Suite 317<br>Phoenix AZ, 85050'
   phone: 480-207-2645
   phone_type:
   phone2:
   phone2_type:
   email: Kodi@TheRiddleGroup.com
-  url: 'https://www.thekodiriddleteam.com'
+  url: 'https://www.theriddlegroup.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: >-
