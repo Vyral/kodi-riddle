@@ -20,7 +20,7 @@ youtube_code: UBnlK5XgHB8
 
 This is your invitation to the special movie event we’re hosting on April 17 at 2 p.m. **We’d love for you to join us.** We want to thank our family, friends, and past clients for trusting us with their real estate needs, and we want to get back out into the world again. Please join us at the Desert Ridge AMC theater for a showing of “Ferris Bueller’s Day Off.”&nbsp;
 
-We’ll be following AMC theater’s COVID-19 health and safety rules. Popcorn and drinks are included, so ***RSVP here***, or call (480) 448-2238, and let us know who you are and how many people will be joining you so we can make sure we have enough seats and snacks for everyone. Let’s get back to the movies\!
+We’ll be following AMC theater’s COVID-19 health and safety rules. Popcorn and drinks are included, so email us at [movie@theriddlegroup.com](mailto:movie@theriddlegroup.com)&nbsp;or call (480) 448-2238, and let us know who you are and how many people will be joining you so we can make sure we have enough seats and snacks for everyone. Let’s get back to the movies\!
 
 {% include pullquote.html %}
 
