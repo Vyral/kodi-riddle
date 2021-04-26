@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11 Tips for Writing a Great Purchase Offer
+title: The 11 Top Strategies for Today's Home Buyer
 date: 2021-04-22 09:00:00
 tags:
   - Home Buyer Tips
