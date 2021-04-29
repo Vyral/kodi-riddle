@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The 11 Top Strategies for Today's Home Buyer
-date: 2021-04-22 09:00:00
+date: 2021-04-29 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: These tips will help you write the best purchase offer possible.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/The+11+Top+Strategies+for+Today's+Home+Buyer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
