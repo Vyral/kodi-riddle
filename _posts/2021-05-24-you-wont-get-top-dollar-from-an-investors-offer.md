@@ -5,7 +5,8 @@ date: 2021-05-24 18:12:00
 tags:
   - Home Seller Tips
 excerpt: Here's why you should get a good agent and put your home on the MLS.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/You+Won%E2%80%99t+Get+Top+Dollar+From+an+Investor%E2%80%99s+Offer.mp4
 pullquote: An investor makes their money when they purchase your house.
 enclosure_type: video/mp4
 enclosure_time:
