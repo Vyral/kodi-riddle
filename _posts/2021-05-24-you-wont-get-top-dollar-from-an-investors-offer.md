@@ -1,10 +1,10 @@
 ---
 layout: post
 title: You Won’t Get Top Dollar From an Investor’s Offer
-date: 2021-05-24 18:12:05
+date: 2021-05-24 18:12:00
 tags:
   - Home Seller Tips
-excerpt: Why you should get a good agent and put your home on the MLS.
+excerpt: Here's why you should get a good agent and put your home on the MLS.
 enclosure:
 pullquote: An investor makes their money when they purchase your house.
 enclosure_type: video/mp4
@@ -23,4 +23,6 @@ If that's the case, why would anybody sell to an investor? It's simply because t
 
 {% include pullquote.html %}
 
-There is a home in my subdivision that was purchased and sold by an investor for $100,000 more within a month of going on the market. You shouldn't lose out on that money. If you're working with an agent who brings a buyer to you and says to go with that buyer before you ever hit the market, they're doing you a disservice too. Do not go that direction, **get on the MLS, have an audience of thousands, and get the most out of your home.** Give us a call if you have any real estate questions and let us know how we can help.
+There is a home in my subdivision that was purchased and sold by an investor for $100,000 more within a month of going on the market. You shouldn't lose out on that money. If you're working with an agent who brings a buyer to you and says to go with that buyer before you ever hit the market, they're doing you a disservice too. Do not go that direction, **get on the MLS, have an audience of thousands, and get the most out of your home.**
+
+Give us a call if you have any real estate questions and let us know how we can help.
