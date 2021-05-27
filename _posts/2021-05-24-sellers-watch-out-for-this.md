@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Won’t Get Top Dollar From an Investor’s Offer
+title: 'Sellers: Watch out for this!'
 date: 2021-05-24 18:12:00
 tags:
   - Home Seller Tips
