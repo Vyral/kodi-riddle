@@ -28,22 +28,22 @@ If you’ve been trying to buy a home recently, you already know that we’re in
 
 **For your convenience, I’ve included timestamps for today’s video topic. Feel free to navigate to the section(s) you’re most interested in viewing:**
 
-**(00:30) —** Introduction to today’s video: When is this crazy market going to end?
+00:30 — Introduction to today’s video: When is this crazy market going to end?
 
-**(01:01) —** How I’ll be making my predictions
+01:01 — How I’ll be making my predictions
 
-**(01:45) —** How the Cromford Market Index works
+01:45 — How the Cromford Market Index works
 
-**(02:50) —** What’s happening in Cave Creek’s market
+02:50 — What’s happening in Cave Creek’s market
 
-**(04:07) —** What’s happening in the Scottsdale market
+04:07 — What’s happening in the Scottsdale market
 
-**(04:53) —** What’s happening in the Phoenix market
+04:53 — What’s happening in the Phoenix market
 
-**(05:19) —** What’s happening in the Glendale market
+05:19 — What’s happening in the Glendale market
 
-**(06:02) —** What’s happening in the Chandler market
+06:02 — What’s happening in the Chandler market
 
-**(06:38) —** Conclusion to today’s video
+06:38 — Conclusion to today’s video
 
 I hope this gives you a better idea of where the market may be headed in the near future. If you have any questions or would like more information about buying or selling, feel free to reach out to me. I look forward to hearing from you soon.
