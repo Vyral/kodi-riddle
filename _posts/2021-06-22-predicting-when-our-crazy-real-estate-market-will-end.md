@@ -9,9 +9,7 @@ tags:
 excerpt: Will this crazy market ever end? Here’s what I predict.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/Predicting+When+Our+Crazy+Real+Estate+Market+Will+End.mp4
-pullquote: >-
-  I hope this gives you a better idea of where the market may be headed in the
-  near future
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,8 +21,6 @@ youtube_code: yPVOkozqxi0
 {% include excerpt.html %}
 
 If you’ve been trying to buy a home recently, you already know that we’re in an absolutely crazy market. It seems like sellers hold all the power, there aren’t enough homes to go around, prices are skyrocketing, and competition is incredibly fierce. Now, everyone’s wondering when this blazing-hot market is going to end, so my goal for today is to share what I think will happen and how it could affect buyers and sellers going forward.
-
-{% include pullquote.html %}
 
 **For your convenience, I’ve included timestamps for today’s video topic. Feel free to navigate to the section(s) you’re most interested in viewing:**
 
@@ -46,4 +42,4 @@ If you’ve been trying to buy a home recently, you already know that we’re in
 
 06:38 — Conclusion to today’s video
 
-I hope this gives you a better idea of where the market may be headed in the near future. If you have any questions or would like more information about buying or selling, feel free to reach out to me. I look forward to hearing from you soon.
+I hope this gives you a better idea of where the market may be headed. If you have any questions or would like more information about buying or selling, feel free to reach out to me. I look forward to hearing from you soon.
