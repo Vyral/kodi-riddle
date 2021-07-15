@@ -22,7 +22,7 @@ youtube_code: KyYYrE8wLnQ
 
 Is this market going to crash? As a buyer, should you wait for prices to come down to make your move?
 
-If you have been waiting since year, that probably hasn’t worked out very well. **If you look at the graph at 1:23 in the video, the year-over-year appreciation rate here in Arizona (17.4%) is well above the national average (12.6%).** 17.4% is a massive number, and as far as waiting out the market, it’s not hard for me to tell you that that’s not the right call.&nbsp;
+If you have been waiting since last year, that probably hasn’t worked out very well. **If you look at the graph at 1:23 in the video, the year-over-year appreciation rate here in Arizona (17.4%) is well above the national average (12.6%).** 17.4% is a massive number, and as far as waiting out the market, it’s not hard for me to tell you that that’s not the right call.&nbsp;
 
 I know it’s frustrating and you may want to throw in the towel, but allow me to make a shameless plug: Our team has helped over 40 buyers buy homes this year. You can find value in an agent who hustles and works hard, but there are other things to account for when buying a home. It’s obviously important to hire a good Realtor, but there are some pretty crazy things to contend with in this market.
 
