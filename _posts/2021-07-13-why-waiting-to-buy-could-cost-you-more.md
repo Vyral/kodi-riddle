@@ -8,13 +8,13 @@ tags:
   - Greater Phoenix Real Estate
 excerpt: If you’re waiting to buy in this market, I don’t think that’s the right move.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/Why+Waiting+to+Buy+Could+Cost+You+More.mp4.crdownload
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/Why+Waiting+to+Buy+Could+Cost+You+More.mp4
 pullquote: Based on this information, why wait to buy?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/buyers-dont-wait-this-market-out-email-yt.jpg
-youtube_code: KyYYrE8wLnQ
+youtube_code: 9XdcYhHg-LI
 ---
 {% include youtube.html %}
 
