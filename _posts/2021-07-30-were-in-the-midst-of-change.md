@@ -5,7 +5,8 @@ date: 2021-07-30 14:00:42
 tags:
   - Greater Phoenix Real Estate Market Update
 excerpt: Our Greater Phoenix real estate market is seeing some changes.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kodi+Riddle/Kodi+Riddle+Mid-Year+Real+Estate+Market+update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
