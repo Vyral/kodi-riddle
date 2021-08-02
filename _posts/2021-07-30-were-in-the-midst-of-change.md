@@ -17,7 +17,7 @@ youtube_code: HcW3ngeqxhg
 
 {% include excerpt.html %}
 
-Welcome to your 2021 midyear real estate market update. We’re in the midst of change; much is happening in the market across the U.S. and here in the Greater Phoenix area. Today I’m sharing all the relevant numbers and information so you can make informed decisions about your future. We’ll discuss what the experts are saying, what’s changing, where we may be heading, and more.
+Welcome to your 2021 midyear real estate market update. We’re in the midst of change; much is happening in the market across the U.S. and here in the Greater Phoenix area. Today, I’m sharing all the relevant numbers and information so you can make informed decisions about your future. We’ll discuss what the experts are saying, what’s changing, where we may be heading, and more.
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video.**
 
