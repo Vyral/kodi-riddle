@@ -21,7 +21,7 @@ youtube_code: nFm9nqphXsc
 
 Are we in a housing bubble? I haven’t been concerned about this for a while. However, this is something I know a lot of you have been worried about, so let me tell you: We aren’t in a bubble. I have a lot of information to share to back that statement up and calm your nerves a little.
 
-**You can watch my full message above, or navigate around using the timestamps provided below for your convenience.**
+**You can watch my full message above or navigate around using the timestamps provided below for your convenience.**
 
 1:50—When you have a void of information
 
