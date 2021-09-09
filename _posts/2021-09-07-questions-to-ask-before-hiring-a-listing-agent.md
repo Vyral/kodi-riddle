@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Questions to Ask Before Hiring a Listing Agent
+title: Questions To Ask Before Hiring a Listing Agent
 date: 2021-09-07 00:00:00
 tags:
   - Real Estate
@@ -22,30 +22,30 @@ Today I’m sharing the 11 questions you should ask a listing agent before hirin
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video:**
 
-0:00 - Introduction to today’s topic
+0:00 — Introduction to today’s topic
 
-1:00 - Question 1- Will you let me unconditionally cancel my listing agreement?
+1:00 — Question 1: Will you let me unconditionally cancel my listing agreement?
 
-1:35 - Question 2- Can you show me your results compared to other agents’?
+1:35 — Question 2: Can you show me your results compared to other agents’?
 
-2:00 - Question 3- What do you do to generate interest online for homes, and what are your results?
+2:00 — Question 3: What do you do to generate interest online for homes, and what are your results?
 
-2:40 - Question 4- What do you do to get buyers to call for more information about a listing?
+2:40 — Question 4: What do you do to get buyers to call for more information about a listing?
 
-3:20 - Question 5- Do you have a database of active buyers you can show me? If so, how do you match them with your listings?
+3:20 — Question 5: Do you have a database of active buyers you can show me? If so, how do you match them with your listings?
 
-3:45 - Question 6- Will you have a team working on my sale, or do you do everything yourself?
+3:45 — Question 6: Will you have a team working on my sale, or do you do everything yourself?
 
-5:55 - Question 7- Will you use professional photography and help me stage my home?
+5:55 — Question 7: Will you use professional photography and help me stage my home?
 
-6:25 - Question 8- Do you perform a traditional CMA when pricing homes or use other sources of data? Also, how do you come up with the best pricing strategy to maximize the value of homes?
+6:25 — Question 8: Do you perform a traditional CMA when pricing homes or use other sources of data? Also, how do you come up with the best pricing strategy to maximize the value of homes?
 
-7:25 - Question 9- How will you handle contract negotiations?
+7:25 — Question 9: How will you handle contract negotiations?
 
-8:30 - Question 10- Do you personally meet with the appraiser?
+8:30 — Question 10: Do you personally meet with the appraiser?
 
-8:50 - Question 11- Can you provide testimonials from past clients?
+8:50 — Question 11: Can you provide testimonials from past clients?
 
-9:30 - Wrapping up today’s topic
+9:30 &nbsp;Wrapping up today’s topic
 
 Comment below or email us if you’d like us to send you the booklet on this topic. If you have any questions about selling or real estate in general, please reach out to us. We would love to help you.
